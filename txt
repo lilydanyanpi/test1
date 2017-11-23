@@ -1,0 +1,7 @@
+https://www.cnblogs.com/qcwblog/p/5709720.html
+
+ 1002  git remote add origin https://github.com/lilydanyanpi/test1.git
+ 1003  git push -u origin master
+ 1004  ssh -T git@github.com
+ 1005  ssh-keygen -t rsa -C "lilydanyanpi"
+ 1006  cat /root/.ssh/id_rsa.pub 
